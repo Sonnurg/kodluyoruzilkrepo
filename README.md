@@ -1,6 +1,8 @@
 # kodluyoruz ilk repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![Örnek Görüntü](C:\Users\lenovo\OneDrive\Masaüstü\freecodecamps projects\patikadev-nodejs-ödevVeProjeler\kodluyoruzilkrepo\ExamplePic.png)
+
+![Örnek Görüntü](https://user-images.githubusercontent.com/96986979/229531132-dc376fce-19f2-48cc-adeb-25d6740e1e1b.png)
+
 
 # Installation
 
